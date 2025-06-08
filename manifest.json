@@ -1,6 +1,6 @@
 {
   "name": "シアン化カリウム数量計算",
-  "short_name": "数量計算",
+  "short_name": "シアン計算",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#eaf6ff",
